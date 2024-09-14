@@ -50,8 +50,8 @@ services:
           - "9443:5100"
         environment:
           - ASPNETCORE_ENVIRONMENT=Docker
-          - ASPNETCORE_Kestrel__Certificates__Default__Password=Idreec**20
-          - ASPNETCORE_Kestrel__Certificates__Default__Path=/certificates/CERTIFICADO2023.pfx
+          - ASPNETCORE_Kestrel__Certificates__Default__Password=AQUI_LA_CONTRASEÑA_DEL_CERTIFICADO
+          - ASPNETCORE_Kestrel__Certificates__Default__Path=/certificates/AQUI_EL_CERTIFICADO.pfx
         volumes:
           - C:\Certificates:/certificates
         networks:
