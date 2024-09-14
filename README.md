@@ -18,7 +18,7 @@ Este repositorio incluye una plantilla de Docker Compose para desplegar los sigu
 
 ---
 
-## 📝 **Instrucciones de Configuración**
+## 🔩 **Instrucciones de Configuración**
 
 1. **Login en Azure Container Registry**
 
@@ -28,7 +28,7 @@ Este repositorio incluye una plantilla de Docker Compose para desplegar los sigu
 
 ---
 
-## 📝 **Iniciar los Servicios**
+## 🔌 **Iniciar los Servicios**
 
 1. **Para iniciar los servicios, usa el sgte comando**
 
