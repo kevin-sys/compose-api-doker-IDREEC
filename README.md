@@ -24,3 +24,13 @@ Este repositorio incluye una plantilla de Docker Compose para desplegar los sigu
 
    ```bash
    docker login -u puller -p v1GLVFn6pWoNrQWgEzmx7MYsf1r7TKJQo+kwadvffq+ACRA3mLxs fevripsacr.azurecr.io
+
+
+---
+
+## 📝 **Iniciar los Servicios**
+
+1. **Para iniciar los servicios, usa el sgte comando**
+
+   ```bash
+   docker-compose -f apilocal-dockercompose.yml up -d
